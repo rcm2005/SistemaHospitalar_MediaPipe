@@ -141,7 +141,7 @@ python gesture_detector.py --camera 0 --delay 15
 
 ## Vídeo Demonstrativo (YouTube)
 
-
+https://youtu.be/RXK5DLzwnPI
 
 ---
 
